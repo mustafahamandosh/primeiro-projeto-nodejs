@@ -1,0 +1,10 @@
+POST {{baseURL}}/deposit
+Content-Type: application/json
+cpf: 23818885869
+
+{
+  "description": "Money deposit for something",
+  "amount": 1000
+}
+
+###

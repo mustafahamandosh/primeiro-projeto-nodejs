@@ -1,0 +1,4 @@
+GET {{baseURL}}/balance
+Content-Type: application/json
+cpf: 23818885869
+###

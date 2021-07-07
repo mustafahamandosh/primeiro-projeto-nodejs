@@ -1,0 +1,10 @@
+GET {{baseURL}}/statement/date?date=2021-07-06
+Accept: application/json
+cpf: 23818885869
+
+###
+GET {{baseURL}}/bankStatement
+Accept: application/json
+cpf: 23818885869
+
+###

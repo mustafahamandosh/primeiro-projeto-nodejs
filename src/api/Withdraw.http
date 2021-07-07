@@ -1,0 +1,9 @@
+POST {{baseURL}}/withdraw
+Content-Type: application/json
+cpf: 23818885869
+
+{
+  "amount": 100
+}
+
+###
